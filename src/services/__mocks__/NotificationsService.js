@@ -7,5 +7,5 @@ export default {
   async GetNotifications() {
     console.warn("GOOD JOB! USING MOCK SERVICE");
     return { count };
-  }
-}
+  },
+};
